@@ -20,7 +20,7 @@ Creates an SVG file based on a few user inputs
 |inquirer|[link](https://www.npmjs.com/package/inquirer/v/8.2.4)|
 |jest|[link](https://jestjs.io/docs/getting-started)|
 ## Usage
-[Application demo](https://drive.google.com/file/d/1K7F1kG_FTBi7rgljA1STXuDKuDxLw88o/view)
+[Application demo](https://drive.google.com/file/d/1LbBrdx5olyPKseOkGHwc9FO123Bg__dy/view)
 
 ## Learning Points
 Through this project I got a better understanding of testing suites and how to write them properly. 
